@@ -1,0 +1,17 @@
+runs/
+data/
+result/
+logs/
+traces/
+__pycache__/
+
+*.pyc
+*.tar
+*.log
+latency.json
+
+.venv
+_rel/
+datasets/MMLU/data
+datasets/mathvista/images
+datasets/videomme/videos
